@@ -1,0 +1,102 @@
+.impact-section {
+    max-width: 64rem;
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 0.5rem;
+  }
+  
+  .impact-container {
+    position: relative;
+  }
+  
+  .impact-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), transparent);
+    z-index: -1;
+  }
+  
+  .impact-title {
+    font-family: serif;
+    font-size: 2.25rem;
+    margin-bottom: 2rem;
+  }
+  
+  .gauge-container {
+    margin-bottom: 2rem;
+  }
+  
+  .gauge {
+    position: relative;
+    width: 12rem;
+    height: 6rem;
+    margin: 0 auto;
+  }
+  
+  .gauge-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-top: 24px solid #e5e7eb;
+    border-top-left-radius: 9999px;
+    border-top-right-radius: 9999px;
+  }
+  
+  .gauge-progress {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-top: 24px solid #ef4444;
+    border-top-left-radius: 9999px;
+    border-top-right-radius: 9999px;
+    clip-path: polygon(0 0, 60% 0, 60% 100%, 0% 100%);
+  }
+  
+  .gauge-needle {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%) rotate(45deg);
+    transform-origin: bottom center;
+    width: 4px;
+    height: 5rem;
+    background-color: #ef4444;
+  }
+  
+  .target-amount {
+    font-size: 1.875rem;
+    font-weight: bold;
+    margin-top: 1rem;
+  }
+  
+  .target-label {
+    color: #4b5563;
+  }
+  
+  .impact-tagline {
+    font-size: 1.25rem;
+    font-style: italic;
+    margin-bottom: 3rem;
+  }
+  
+  .impact-grid {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  
+  .impact-amount {
+    font-size: 1.875rem;
+    font-weight: bold;
+  }
+  
+  .impact-label {
+    color: #4b5563;
+  }
+  
+  @media (min-width: 768px) {
+    .impact-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }

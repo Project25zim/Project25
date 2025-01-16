@@ -1,0 +1,1049 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/obj/Debug/net8.0/scopedcss/projectbundle/ImageCarousel.bundle.scp.css",
+      "PackagePath": "staticwebassets/ImageCarousel.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0002.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0002.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0008.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0008.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0010.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0010.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0012.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0012.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0018.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0018.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0022.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0022.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0053.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0053.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0106.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0106.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0112.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0112.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0127.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0127.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0131.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0131.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0138.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0138.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0168.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0168.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0170.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0170.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0171.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0171.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0177.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0177.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0371.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0371.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0402.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0402.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0521.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0521.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0528.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0528.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0588.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0588.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0620.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0620.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0707.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0707.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0713.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0713.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0719.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0719.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0729.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0729.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0734.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0734.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0738.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0738.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0749.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0749.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0750.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0750.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0779.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0779.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0781.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0781.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0783.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0783.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0785.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0785.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0800.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0800.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0807.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0807.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0812.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0812.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0827.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0827.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0841.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0841.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0851.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0851.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0853.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0853.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0882.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0882.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0900.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0900.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0915.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0915.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0946.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0946.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0962.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0962.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0976.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0976.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0990.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0990.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0994.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0994.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0995.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0995.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/DSC_0999.JPG",
+      "PackagePath": "staticwebassets/images/carousel/DSC_0999.JPG"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_b9ad.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_b9ad.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb31.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb31.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb69.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb69.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb6a.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb6a.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb6b.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb6b.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb6c.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb6c.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb6d.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb6d.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb6e.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb6e.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb72.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb72.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb77.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb77.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb79.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb79.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb7a.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb7a.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb7b.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb7b.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb7c.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb7c.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb7d.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb7d.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb82.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb82.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb85.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb85.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb86.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb86.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb8e.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb8e.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb90.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb90.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb94.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb94.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb96.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb96.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bb98.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bb98.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bba2.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bba2.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bbb4.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bbb4.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bbd8.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bbd8.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bbd9.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bbd9.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bbdb.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bbdb.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bbdd.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bbdd.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bbde.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bbde.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bbdf.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bbdf.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bbe0.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bbe0.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc07.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc07.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc08.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc08.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc12.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc12.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc17.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc17.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc27.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc27.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc2a.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc2a.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc31.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc31.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc32.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc32.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc33.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc33.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc34.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc34.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc35.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc35.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc37.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc37.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc38.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc38.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc39.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc39.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc3a.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc3a.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc3c.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc3c.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc3d.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc3d.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc3e.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc3e.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc3f.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc3f.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc4f.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc4f.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc55.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc55.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc56.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc56.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc58.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc58.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc5f.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc5f.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc66.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc66.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc68.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc68.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc6a.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc6a.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc6b.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc6b.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc6c.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc6c.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc6d.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc6d.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc6f.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc6f.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc70.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc70.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc72.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc72.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc78.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc78.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc7d.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc7d.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc7f.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc7f.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc80.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc80.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc81.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc81.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc83.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc83.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc8b.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc8b.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc8c.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc8c.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc8d.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc8d.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc8f.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc8f.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc90.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc90.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc93.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc93.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc9c.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc9c.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc9d.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc9d.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc9e.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc9e.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bc9f.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bc9f.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bca5.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bca5.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bca6.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bca6.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bca7.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bca7.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bca8.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bca8.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bca9.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bca9.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcaa.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcaa.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcab.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcab.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcac.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcac.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcad.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcad.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcb3.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcb3.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcb4.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcb4.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcb6.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcb6.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcb7.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcb7.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcb8.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcb8.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcbf.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcbf.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcc1.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcc1.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bccb.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bccb.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bccc.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bccc.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcce.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcce.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcd7.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcd7.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bce3.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bce3.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bce6.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bce6.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bceb.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bceb.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcec.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcec.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bced.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bced.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcee.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcee.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcf6.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcf6.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcfc.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcfc.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bcfe.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bcfe.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd01.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd01.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd06.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd06.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd13.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd13.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd15.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd15.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd16.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd16.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd1c.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd1c.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd1d.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd1d.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd1e.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd1e.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd21.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd21.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd22.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd22.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd23.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd23.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd25.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd25.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd26.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd26.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd29.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd29.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd2a.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd2a.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd2d.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd2d.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd2f.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd2f.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd3d.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd3d.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd3f.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd3f.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd40.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd40.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd41.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd41.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd42.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd42.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd45.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd45.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd7a.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd7a.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd7b.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd7b.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd7c.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd7c.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd95.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd95.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bd96.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bd96.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bda0.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bda0.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bda3.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bda3.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bda6.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bda6.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bda7.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bda7.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bda8.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bda8.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bdad.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bdad.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/images/carousel/fullsizeoutput_bdb3.jpeg",
+      "PackagePath": "staticwebassets/images/carousel/fullsizeoutput_bdb3.jpeg"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/mwazvitamutowo/testForP25/ImageCarousel/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ImageCarousel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ImageCarousel.props",
+      "PackagePath": "build\\ImageCarousel.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ImageCarousel.props",
+      "PackagePath": "buildMultiTargeting\\ImageCarousel.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ImageCarousel.props",
+      "PackagePath": "buildTransitive\\ImageCarousel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
