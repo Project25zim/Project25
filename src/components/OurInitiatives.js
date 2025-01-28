@@ -1,5 +1,7 @@
 import React from 'react';
 import '../css/ourinitiatives.css';
+import InitiativeSection from '../components/InitiativeSection';
+
 
 const OurInitiatives = () => {
   const Gauge = () => (
@@ -46,6 +48,9 @@ const OurInitiatives = () => {
           </div>
         </div>
       </div>
+      <div>
+      <InitiativeSection />
+    </div>
     </section>
   );
 };

@@ -1,19 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mwazvitamutowo/testForP25/ImageCarousel/ImageCarousel.csproj": {}
+    "/Users/mwazvitamutowo/project25/ImageCarousel/ImageCarousel.csproj": {}
   },
   "projects": {
-    "/Users/mwazvitamutowo/testForP25/ImageCarousel/ImageCarousel.csproj": {
+    "/Users/mwazvitamutowo/project25/ImageCarousel/ImageCarousel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mwazvitamutowo/testForP25/ImageCarousel/ImageCarousel.csproj",
+        "projectUniqueName": "/Users/mwazvitamutowo/project25/ImageCarousel/ImageCarousel.csproj",
         "projectName": "ImageCarousel",
-        "projectPath": "/Users/mwazvitamutowo/testForP25/ImageCarousel/ImageCarousel.csproj",
+        "projectPath": "/Users/mwazvitamutowo/project25/ImageCarousel/ImageCarousel.csproj",
         "packagesPath": "/Users/mwazvitamutowo/.nuget/packages/",
-        "outputPath": "/Users/mwazvitamutowo/testForP25/ImageCarousel/obj/",
+        "outputPath": "/Users/mwazvitamutowo/project25/ImageCarousel/obj/",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/mwazvitamutowo/.nuget/NuGet/NuGet.Config"
         ],

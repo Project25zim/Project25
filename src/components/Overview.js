@@ -1,5 +1,7 @@
 import React from 'react';
 import '../css/overviewcomponent.css';
+import teamImage from '../assets/images/DSC_0008.JPG';
+import happyChildren from '../assets/images/DSC_0371.JPG';
 
 function OverviewComponent() {
   return (
@@ -16,12 +18,12 @@ function OverviewComponent() {
         </div>
         <div className="overview-images">
           <img
-            src="left-image-url.jpg"
-            alt="Shoes and legs"
+            src={teamImage}
+            alt="Image of teammates"
             className="overview-image overview-image-left"
           />
           <img
-            src="right-image-url.jpg"
+            src={happyChildren}
             alt="Happy children"
             className="overview-image overview-image-right"
           />

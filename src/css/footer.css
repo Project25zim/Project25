@@ -1,0 +1,227 @@
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.footer-section {
+  flex: 1;
+  min-width: 250px;
+  margin: 10px;
+}
+
+.company-info .logo-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.company-info .logo {
+  margin-right: 10px;
+}
+
+.company-info .company-name {
+  font-size: 1.5em;
+  margin: 0;
+}
+
+.company-description {
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.contact-support .contact-info p {
+  margin: 5px 0;
+}
+
+.newsletter-signup .newsletter-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.newsletter-signup .newsletter-input {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+  width: 80%;
+  max-width: 300px;
+}
+
+.newsletter-signup .newsletter-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #ff6600;
+  color: #fff;
+  cursor: pointer;
+}
+
+.newsletter-signup .newsletter-button:hover {
+  background-color: #e65c00;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.logo {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+.company-name {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.company-description {
+  color: #cbd5e1;
+  line-height: 1.5;
+}
+
+.section-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.contact-info {
+  color: #cbd5e1;
+  margin-bottom: 1.5rem;
+}
+
+.contact-info p {
+  margin-bottom: 0.5rem;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 0.75rem;
+}
+
+/* Button Styles */
+.button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+  border: none;
+}
+
+.volunteer-button {
+  background-color: #2563eb;
+  color: white;
+}
+
+.volunteer-button:hover {
+  background-color: #1d4ed8;
+}
+
+.donate-button {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+}
+
+.donate-button:hover {
+  background-color: white;
+  color: #0f172a;
+}
+
+.quick-links {
+  margin-bottom: 2rem;
+}
+
+.links-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.nav-link {
+  color: #cbd5e1;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+.newsletter {
+  margin-top: 1.5rem;
+}
+
+.signup-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+/* Input Styles */
+.email-input {
+  padding: 0.5rem;
+  border-radius: 0.375rem;
+  background-color: #1e293b;
+  border: 1px solid #334155;
+  color: white;
+  width: 100%;
+}
+
+.email-input::placeholder {
+  color: #94a3b8;
+}
+
+.email-input:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+.submit-button {
+  background-color: #22c55e;
+  color: white;
+  width: 100%;
+}
+
+.submit-button:hover {
+  background-color: #16a34a;
+}
+
+.copyright {
+  border-top: 1px solid #1e293b;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  text-align: center;
+  color: #94a3b8;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .footer-container {
+    flex-direction: column;
+  }
+
+  .footer-section {
+    min-width: 100%;
+  }
+
+  .action-buttons {
+    flex-direction: column;
+  }
+}

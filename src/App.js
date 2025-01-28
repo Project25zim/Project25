@@ -8,6 +8,7 @@ import Donations from './pages/Donations';
 import Volunteer from './pages/Volunteer';
 import './css/styles.css';
 import OurInitiatives from './pages/OurInitiatives';
+import InitiativeDetail from './components/InitiativeDetail';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/about" element={<AboutUs />} />
           <Route path="/donate" element={<Donations />} />
           <Route path="/ourinitiatives" element={<OurInitiatives />} />
+          <Route path="/initiative/:id" element={<InitiativeDetail />} />
           <Route path="/volunteer" element={<Volunteer />} />
         </Routes>
         <Footer />

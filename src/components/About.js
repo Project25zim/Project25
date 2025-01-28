@@ -1,5 +1,7 @@
 import React from 'react';
 import '../css/about.css';
+import volunteerwithchildren from '../assets/images/fullsizeoutput_bd26.jpeg';
+import pastInitiative from '../assets/images/fullsizeoutput_bd7c.jpeg';
 
 const About = () => {
   return (
@@ -8,7 +10,7 @@ const About = () => {
       <section className="section">
         <div className="section-image">
           <img 
-            src="/api/placeholder/800/600"
+              src={pastInitiative}
             alt="Group of diverse people sitting on steps having a discussion" 
           />
         </div>
@@ -26,7 +28,7 @@ const About = () => {
       <section className="section">
         <div className="section-image">
           <img 
-            src="/api/placeholder/800/600"
+            src={volunteerwithchildren}
             alt="Teacher helping student with coursework in library" 
           />
         </div>

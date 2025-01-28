@@ -10,7 +10,7 @@
   }
   
       .header {
-        background: url('../../ImageCarousel/wwwroot/images/carousel/DSC_0729.JPG') no-repeat center center/cover;
+        background: url('../assets/images/fullsizeoutput_bc4f.jpeg') no-repeat center center/cover !important;
           height: 100vh;
           display: flex;
           align-items: center;
