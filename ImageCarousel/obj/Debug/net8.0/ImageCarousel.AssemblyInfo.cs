@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImageCarousel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afa588d0c23a48f2142cbd016b5057d74832f4a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18981552d5cce69f8ae75dc93fb5fc19f207bd95")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImageCarousel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImageCarousel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
