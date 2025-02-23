@@ -1,6 +1,6 @@
 .footer {
-  background-color: #333;
-  color: #fff;
+  background-color: teal;
+  color: white;
   padding: 20px 0;
   text-align: center;
 }
@@ -63,13 +63,13 @@
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
-  background-color: #ff6600;
-  color: #fff;
+  background-color: coral;
+  color: white;
   cursor: pointer;
 }
 
 .newsletter-signup .newsletter-button:hover {
-  background-color: #e65c00;
+  background-color: #e57373;
 }
 
 .logo-container {

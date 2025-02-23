@@ -49,3 +49,9 @@
       .header .btn:hover {
           transform: scale(1.1);
       }
+      .btn-outline {
+          color: #fff;
+          border-color: #fff;
+          background-color: coral;
+
+      }

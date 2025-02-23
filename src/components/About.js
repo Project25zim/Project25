@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import '../css/about.css';
 import volunteerwithchildren from '../assets/images/fullsizeoutput_bd26.jpeg';
 import pastInitiative from '../assets/images/fullsizeoutput_bd7c.jpeg';
@@ -10,7 +11,7 @@ const About = () => {
       <section className="section">
         <div className="section-image">
           <img 
-              src={pastInitiative}
+            src={pastInitiative}
             alt="Group of diverse people sitting on steps having a discussion" 
           />
         </div>
@@ -20,7 +21,7 @@ const About = () => {
             Established in 2030, Inspired to Learn aims to empower individuals 
             and transform communities through the value of education.
           </p>
-          <a href="#" className="learn-more">Learn more</a>
+          <Link to="/ourinitiatives" className="learn-more">Learn more</Link>
         </div>
       </section>
 
@@ -38,7 +39,7 @@ const About = () => {
             Look back on our recent projects from tutoring programs, 
             school supply distributions, to community classes.
           </p>
-          <a href="#" className="learn-more">Learn more</a>
+          <Link to="/ourinitiatives" className="learn-more">Learn more</Link>
         </div>
       </section>
     </div>

@@ -1,10 +1,8 @@
 .header {
-    background: url('https://via.placeholder.com/1920x800') no-repeat center center/cover;
-    height: 50vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
+  background-color: #007bff;
+  color: #fff;
+  padding: 50px 0;
+  text-align: center;
 }
 
 .header-overlay {
@@ -18,5 +16,48 @@
 }
 
 .header .container {
-    z-index: 2;
+  max-width: 800px;
+  margin: 0 auto;
+  z-index: 2;
+}
+
+#donation-options {
+  background-color: #f9f9f9;
+  padding: 50px 0;
+}
+
+#donation-options .container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#donation-options h2 {
+  margin-bottom: 20px;
+}
+
+#donation-options .row {
+  display: flex;
+  justify-content: space-around;
+}
+
+#donation-options .col-lg-4 {
+  background-color: #fff;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#donation-component {
+  background-color: #fff;
+  padding: 50px 0;
+}
+
+#donation-component .container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#donation-component h2 {
+  margin-bottom: 20px;
 }

@@ -38,11 +38,6 @@ const menuItems = [
   {
     title: 'Donate',
     path: '/donate',
-    submenu: [
-      { title: 'One-time Donation', path: '/donate#onetime' },
-      { title: 'Monthly Giving', path: '/donate#monthly' },
-      { title: 'Corporate Giving', path: '/donate#corporate' }
-    ]
   }
 ];
 

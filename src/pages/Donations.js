@@ -1,5 +1,6 @@
 import React from 'react';
 import '../css/donations.css';
+import DonationComponent from '../components/DonationComponent';
 
 function Donations() {
   return (
@@ -18,6 +19,12 @@ function Donations() {
             <div className="col-lg-4">$50: Support a clinic for one day.</div>
             <div className="col-lg-4">$100: Fund a scholarship.</div>
           </div>
+        </div>
+      </section>
+      <section id="donation-component" className="py-5">
+        <div className="container text-center">
+          <h2>Make a Donation</h2>
+          <DonationComponent />
         </div>
       </section>
     </>

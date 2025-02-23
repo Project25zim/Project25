@@ -1,18 +1,18 @@
 import React from 'react';
 import '../css/index.css';
+import '../css/homeComponent.css';
+import '../css/overviewcomponent.css';
+import '../css/about.css';
 import OverviewComponent from '../components/Overview';
-import OurInitiatives from '../components/OurInitiatives';
 import About from '../components/About';
-import HomeComponent  from '../components/HomeComponent';
-import '../css/index.css';
+import HomeComponent from '../components/HomeComponent';
 
-function Home ()
-{
-  return(
+function Home() {
+  return (
     <>
-    <HomeComponent/>
-<OverviewComponent />
-<About/>
+      <HomeComponent />
+      <OverviewComponent />
+      <About />
     </>
   );
 }

@@ -4,8 +4,8 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import AboutUs from './pages/AboutUs';
-import Donations from './pages/Donations';
-import Volunteer from './pages/Volunteer';
+import DonationOptions from './components/DonationOptions';
+import Volunteer from './components/Volunteer';
 import './css/styles.css';
 import OurInitiatives from './pages/OurInitiatives';
 import InitiativeDetail from './components/InitiativeDetail';
@@ -16,9 +16,9 @@ function App() {
       <div>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Home/>} />
           <Route path="/about" element={<AboutUs />} />
-          <Route path="/donate" element={<Donations />} />
+          <Route path="/donation-options" element={<DonationOptions />} />
           <Route path="/ourinitiatives" element={<OurInitiatives />} />
           <Route path="/initiative/:id" element={<InitiativeDetail />} />
           <Route path="/volunteer" element={<Volunteer />} />
