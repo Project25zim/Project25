@@ -1,7 +1,7 @@
 import React from 'react';
 import '../css/overviewcomponent.css';
-import teamImage from '../assets/images/DSC_0008.JPG';
-import happyChildren from '../assets/images/DSC_0371.JPG';
+import teamImage from '';
+import happyChildren from '';
 
 function OverviewComponent() {
   return (
