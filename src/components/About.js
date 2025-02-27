@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../css/about.css';
-import volunteerwithchildren from '../assets/images/fullsizeoutput_bd26.jpeg';
-import pastInitiative from '../assets/images/fullsizeoutput_bd7c.jpeg';
+// import volunteerwithchildren from '../assets/images/fullsizeoutput_bd26.jpeg';
+// import pastInitiative from '../assets/images/fullsizeoutput_bd7c.jpeg';
 
 const About = () => {
   return (
@@ -11,7 +11,7 @@ const About = () => {
       <section className="section">
         <div className="section-image">
           <img 
-            src={pastInitiative}
+            // src={pastInitiative}
             alt="Group of diverse people sitting on steps having a discussion" 
           />
         </div>
@@ -29,7 +29,7 @@ const About = () => {
       <section className="section">
         <div className="section-image">
           <img 
-            src={volunteerwithchildren}
+            // src={volunteerwithchildren}
             alt="Teacher helping student with coursework in library" 
           />
         </div>

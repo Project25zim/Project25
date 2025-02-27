@@ -1,7 +1,7 @@
 import React from 'react';
 import '../css/overviewcomponent.css';
-import teamImage from '';
-import happyChildren from '';
+// import teamImage from '';
+// import happyChildren from '';
 
 function OverviewComponent() {
   return (
@@ -18,12 +18,12 @@ function OverviewComponent() {
         </div>
         <div className="overview-images">
           <img
-            src={teamImage}
+            // src={teamImage}
             alt="Image of teammates"
             className="overview-image overview-image-left"
           />
           <img
-            src={happyChildren}
+            // src={happyChildren}
             alt="Happy children"
             className="overview-image overview-image-right"
           />
