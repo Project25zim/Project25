@@ -21,13 +21,26 @@ jobs:
         with:
           node-version: 18 # Use the Node.js version required for your project
 
+      - name: Navigate to app directory
+        run: cd my-app
+
       - name: Install dependencies
-        run: npm install
+        working-directory: ./my-app
+        run: npm ci
 
       - name: Verify Vite installation
+        working-directory: ./my-app
         run: npx vite --version
 
+      - name: List directory structure
+        working-directory: ./my-app
+        run: |
+          pwd
+          ls -la
+          find . -name "index.html"
+
       - name: Build React app with Vite
+        working-directory: ./my-app
         run: npm run build
 
       - name: Deploy to Azure Static Web Apps
@@ -36,5 +49,5 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_AMBITIOUS_SMOKE_0CAAE6A1E }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
-          app_location: "."   # React app location
+          app_location: "my-app"   # React app location (the subdirectory)
           output_location: "dist"  # Vite's default output folder
