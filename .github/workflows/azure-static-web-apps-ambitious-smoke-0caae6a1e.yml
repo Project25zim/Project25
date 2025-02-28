@@ -24,30 +24,53 @@ jobs:
         with:
           node-version: 18
 
-      - name: Create my-app/package.json if it doesn't exist
+      # Create a fresh package.json in my-app directory
+      - name: Setup package.json in my-app directory
         run: |
-          if [ ! -f my-app/package.json ]; then
-            cp package.json my-app/
-          fi
+          mkdir -p my-app
+          cat > my-app/package.json << 'EOL'
+          {
+            "name": "project25",
+            "version": "0.1.0",
+            "private": true,
+            "dependencies": {
+              "@emotion/react": "^11.14.0",
+              "@emotion/styled": "^11.14.0",
+              "@mui/material": "^6.4.0",
+              "bootstrap": "^5.3.3",
+              "lucide-react": "^0.471.1",
+              "react": "^18.2.0",
+              "react-dom": "^18.2.0",
+              "react-router-dom": "^6.16.0",
+              "web-vitals": "^4.2.4"
+            },
+            "devDependencies": {
+              "@vitejs/plugin-react": "^4.0.3",
+              "vite": "^4.4.5"
+            },
+            "scripts": {
+              "dev": "vite",
+              "build": "vite build",
+              "preview": "vite preview"
+            }
+          }
+          EOL
 
+      # Install dependencies using npm install instead of npm ci
       - name: Install dependencies
         working-directory: ./my-app
-        run: npm ci
+        run: npm install
 
-      - name: Install lucide-react if needed
+      # Verify that react-router-dom is installed
+      - name: Verify react-router-dom installation
         working-directory: ./my-app
-        run: npm install lucide-react
+        run: npm list react-router-dom
 
-      - name: Verify Vite installation
-        working-directory: ./my-app
-        run: npx vite --version
-
-      - name: List directory structure
+      - name: Debug - List node_modules contents
         working-directory: ./my-app
         run: |
-          pwd
-          ls -la
-          find . -name "index.html"
+          echo "Checking for react-router-dom files:"
+          ls -la node_modules/react-router-dom || echo "react-router-dom not found in node_modules"
 
       - name: Build React app with Vite
         working-directory: ./my-app
