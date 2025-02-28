@@ -60,6 +60,17 @@ jobs:
       - name: Install dependencies
         working-directory: ./my-app
         run: npm install
+        
+      # Verify that terser is installed
+      - name: Install terser explicitly
+        working-directory: ./my-app
+        run: npm install terser
+
+      # Verify that terser is installed
+      - name: Verify terser installation
+        working-directory: ./my-app
+        run: npx terser --version || echo "Terser not found"
+
 
       # Verify that react-router-dom is installed
       - name: Verify react-router-dom installation
