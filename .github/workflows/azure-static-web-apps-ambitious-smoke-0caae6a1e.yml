@@ -28,6 +28,10 @@ jobs:
         working-directory: ./my-app
         run: npm ci
 
+      - name: Install react-router-dom
+        working-directory: ./my-app
+        run: npm install react-router-dom
+
       - name: Verify Vite installation
         working-directory: ./my-app
         run: npx vite --version
