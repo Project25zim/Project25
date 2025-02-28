@@ -1,4 +1,5 @@
 import React from 'react';
+import { Facebook, Twitter, Youtube } from 'lucide-react';
 import '@/css/teamsection.css';
 
 const TeamSection = () => {

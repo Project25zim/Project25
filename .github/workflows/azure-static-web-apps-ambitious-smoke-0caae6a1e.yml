@@ -1,36 +1,42 @@
-name: Deploy React to Azure Static Web Apps
+name: Azure Static Web Apps CI/CD
 
 on:
   push:
     branches:
-      - main  # Change this if using a different branch
+      - main
   pull_request:
-    types: [opened, synchronize, reopened]
+    types: [opened, synchronize, reopened, closed]
     branches:
-      - main  # Change this if using a different branch
+      - main
 
 jobs:
-  build_and_deploy:
+  build_and_deploy_job:
+    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
     runs-on: ubuntu-latest
+    name: Build and Deploy Job
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18 # Use the Node.js version required for your project
+          node-version: 18
 
-      - name: Navigate to app directory
-        run: cd my-app
+      - name: Create my-app/package.json if it doesn't exist
+        run: |
+          if [ ! -f my-app/package.json ]; then
+            cp package.json my-app/
+          fi
 
       - name: Install dependencies
         working-directory: ./my-app
         run: npm ci
 
-      - name: Install react-router-dom
+      - name: Install lucide-react if needed
         working-directory: ./my-app
-        run: npm install react-router-dom
+        run: npm install lucide-react
 
       - name: Verify Vite installation
         working-directory: ./my-app
@@ -48,10 +54,24 @@ jobs:
         run: npm run build
 
       - name: Deploy to Azure Static Web Apps
+        id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_AMBITIOUS_SMOKE_0CAAE6A1E }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
-          app_location: "my-app"   # React app location (the subdirectory)
-          output_location: "dist"  # Vite's default output folder
+          app_location: "my-app"
+          api_location: ""
+          output_location: "dist"
+
+  close_pull_request_job:
+    if: github.event_name == 'pull_request' && github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    name: Close Pull Request Job
+    steps:
+      - name: Close Pull Request
+        id: closepullrequest
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_AMBITIOUS_SMOKE_0CAAE6A1E }}
+          action: "close"
