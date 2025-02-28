@@ -16,10 +16,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18 # Use the Node.js version required for your project
+
       - name: Install dependencies
         run: npm install
 
-      - name: Build React app
+      - name: Verify Vite installation
+        run: npx vite --version
+
+      - name: Build React app with Vite
         run: npm run build
 
       - name: Deploy to Azure Static Web Apps
@@ -28,5 +36,5 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_AMBITIOUS_SMOKE_0CAAE6A1E }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
-          app_location: "."   # Location of React app (root folder)
-          output_location: "build"  # Build output directory
+          app_location: "."   # React app location
+          output_location: "dist"  # Vite's default output folder
