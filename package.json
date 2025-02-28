@@ -16,6 +16,9 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^4.2.4"
   },
+  "devDependencies": {
+  "vite": "^5.0.0"  
+},
   "scripts": {
   "dev": "vite",
   "build": "vite build",
