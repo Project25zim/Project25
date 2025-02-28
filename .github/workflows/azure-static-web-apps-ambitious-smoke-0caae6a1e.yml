@@ -46,6 +46,7 @@ jobs:
             },
             "devDependencies": {
               "@vitejs/plugin-react": "^4.0.3",
+              "terser": "^5.24.0",
               "vite": "^4.4.5"
             },
             "scripts": {
@@ -66,26 +67,70 @@ jobs:
         working-directory: ./my-app
         run: npm install terser
 
-      # Verify that terser is installed
-      - name: Verify terser installation
+      # Add react-router-dom explicitly
+      - name: Install react-router-dom explicitly
         working-directory: ./my-app
-        run: npx terser --version || echo "Terser not found"
+        run: npm install react-router-dom
 
-
-      # Verify that react-router-dom is installed
-      - name: Verify react-router-dom installation
-        working-directory: ./my-app
-        run: npm list react-router-dom
-
-      - name: Debug - List node_modules contents
-        working-directory: ./my-app
+      # Create vite.config.js file
+      - name: Create vite.config.js
         run: |
-          echo "Checking for react-router-dom files:"
-          ls -la node_modules/react-router-dom || echo "react-router-dom not found in node_modules"
+          cat > my-app/vite.config.js << 'EOL'
+          import { defineConfig } from 'vite';
+          import react from '@vitejs/plugin-react';
+          import path from 'path';
+
+          export default defineConfig({
+            plugins: [react()],
+            resolve: {
+              alias: {
+                '@': path.resolve(__dirname, './src'),
+              },
+            },
+            build: {
+              sourcemap: true,
+              minify: 'terser',
+              terserOptions: {
+                compress: {
+                  drop_console: false,
+                },
+              },
+            },
+          });
+          EOL
+
+      # Create index.html file
+      - name: Create index.html
+        run: |
+          cat > my-app/index.html << 'EOL'
+          <!DOCTYPE html>
+          <html lang="en">
+            <head>
+              <meta charset="UTF-8" />
+              <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+              <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+              <title>Project 25</title>
+            </head>
+            <body>
+              <div id="root"></div>
+              <script type="module" src="/src/main.jsx"></script>
+            </body>
+          </html>
+          EOL
+
+      # Debug static web app API token name
+      - name: Debug - Check token secret name
+        run: |
+          echo "Using AZURE_STATIC_WEB_APPS_API_TOKEN_AMBITIOUS_SMOKE_0CAAE6A1E"
 
       - name: Build React app with Vite
         working-directory: ./my-app
         run: npm run build
+
+      - name: List built files
+        run: |
+          echo "Contents of ./my-app/dist:"
+          ls -la ./my-app/dist || echo "Dist directory not found"
 
       - name: Deploy to Azure Static Web Apps
         id: builddeploy
@@ -97,6 +142,8 @@ jobs:
           app_location: "my-app"
           api_location: ""
           output_location: "dist"
+          app_build_command: "npm run build"
+          app_artifact_location: "dist"
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
